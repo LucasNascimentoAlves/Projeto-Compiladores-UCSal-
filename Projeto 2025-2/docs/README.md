@@ -10,7 +10,6 @@
 - Jailton da Cruz Mocitaiba Filho | jailton.filho@ucsal.edu.br | (71) 9154-2873  
 - Lucas Nascimento Alves | lucas.alves@ucsal.edu.br | (74) 9998-7422  
 
----
 
 ## 2. OBJETIVO DA ETAPA 7
 
@@ -32,7 +31,7 @@ Todos os códigos dos átomos seguem o Apêndice A do documento do projeto.
 - **IDE de execução:** IntelliJ IDEA   
 - **Sistema de arquivos:** Leitura e escrita de arquivos `.252`, `.LEX` e `.TAB`
 
----
+
 
 ## 4. ESTRUTURA DO PROJETO
 
@@ -61,7 +60,6 @@ Projeto2025-2
 └── bin
 
 
----
 
 ## 5. COMO EXECUTAR NO INTELLIJ IDEA
 
@@ -72,7 +70,6 @@ Projeto2025-2
 3. Selecionar a pasta raiz do projeto:  
    `Projeto2025-2`
 
----
 
 ### 5.2 Configurar o arquivo de entrada
 
@@ -85,7 +82,6 @@ testes/teste1.252
 
 O argumento passado será:
 
----
 
 ### 5.3 Configurar os argumentos no IntelliJ
 
@@ -100,7 +96,6 @@ testes/teste1
 
 4. Clique em **Apply** e depois em **OK**
 
----
 
 ### 5.4 Executar o programa
 
@@ -110,7 +105,6 @@ Ao final da execução, o sistema gerará automaticamente:
 testes/teste1.LEX
 testes/teste1.TAB
 
----
 
 ## 6. ARQUIVO `.LEX`
 
@@ -125,7 +119,6 @@ O arquivo `.LEX` contém:
 Exemplo de linha:
 program | PRS14 | 1 | -1
 
----
 
 ## 7. ARQUIVO `.TAB`
 
@@ -139,7 +132,6 @@ O arquivo `.TAB` contém a **Tabela de Símbolos**, incluindo:
 - Tipo (ND)
 - Lista das primeiras linhas onde o símbolo aparece
 
----
 
 ## 8. TRATAMENTO DE COMENTÁRIOS
 
@@ -164,6 +156,7 @@ Todos os códigos seguem o padrão:
 - SRSxx → Símbolos reservados
 
 - IDNxx → Identificadores e constantes
+
 
 
 
