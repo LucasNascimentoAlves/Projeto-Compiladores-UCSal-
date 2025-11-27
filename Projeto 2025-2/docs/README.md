@@ -152,6 +152,7 @@ O analisador ignora completamente:
   // comentário
 
 - Comentários de bloco:
+  ```txt
   /* comentário */
 
 Nenhum comentário gera token ou entrada na Tabela de Símbolos.
@@ -165,6 +166,7 @@ Todos os códigos seguem o padrão:
 - SRSxx → Símbolos reservados
 
 - IDNxx → Identificadores e constantes
+
 
 
 
