@@ -14,7 +14,7 @@ public class TabelaReservadas {
 
     private void carregarReservadas() {
 
-        // PALAVRAS RESERVADAS (PRS)
+        // Palavras reservadas (PRS)
 
         tabela.put("integer", "PRS01");
         tabela.put("real", "PRS02");
@@ -44,7 +44,7 @@ public class TabelaReservadas {
         tabela.put("print", "PRS26");
 
 
-        // SÍMBOLOS RESERVADOS (SRS)
+        // Símbolos reservados (SRS)
 
         tabela.put(";", "SRS01");
         tabela.put(",", "SRS02");
