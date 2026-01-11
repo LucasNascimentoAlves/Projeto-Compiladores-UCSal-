@@ -6,9 +6,9 @@
 **Equipe:** EQ02  
 
 **Integrantes:**
-- Diego Peon San Martin Neto | diego.neto@ucsal.edu.br | (71) 9902-1700  
-- Jailton da Cruz Mocitaiba Filho | jailton.filho@ucsal.edu.br | (71) 9154-2873  
-- Lucas Nascimento Alves | lucas.alves@ucsal.edu.br | (74) 9998-7422  
+- Diego Peon San Martin Neto 
+- Jailton da Cruz Mocitaiba Filho 
+- Lucas Nascimento Alves 
 
 
 ## 2. OBJETIVO DA ETAPA 7
@@ -110,6 +110,7 @@ Todos os códigos seguem o padrão:
 - SRSxx → Símbolos reservados
 
 - IDNxx → Identificadores e constantes
+
 
 
 
